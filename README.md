@@ -1,7 +1,7 @@
 # PantryPal
 
 ## Repository Link
-https://github.com/ucsd-cse110-fa23/cse-110-project-team-17
+[https://github.com/ucsd-cse110-fa23/cse-110-project-team-17](https://github.com/ant019/PantryPal)
 
 ## Instructions
 To start the application, run `app/src/main/java/ui/Main.java` with the libraries in `app/lib`. You can do this by using VSCode's built-in Java runner, and running the configuration entitled `UI`. 
